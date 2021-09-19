@@ -1,0 +1,10 @@
+C:\Users\Sinem\source\repos\GradeCalculation\GradeCalculation\bin\Debug\GradeCalculation.exe.config
+C:\Users\Sinem\source\repos\GradeCalculation\GradeCalculation\bin\Debug\GradeCalculation.exe
+C:\Users\Sinem\source\repos\GradeCalculation\GradeCalculation\bin\Debug\GradeCalculation.pdb
+C:\Users\Sinem\source\repos\GradeCalculation\GradeCalculation\obj\Debug\GradeCalculation.csprojAssemblyReference.cache
+C:\Users\Sinem\source\repos\GradeCalculation\GradeCalculation\obj\Debug\GradeCalculation.Form1.resources
+C:\Users\Sinem\source\repos\GradeCalculation\GradeCalculation\obj\Debug\GradeCalculation.Properties.Resources.resources
+C:\Users\Sinem\source\repos\GradeCalculation\GradeCalculation\obj\Debug\GradeCalculation.csproj.GenerateResource.cache
+C:\Users\Sinem\source\repos\GradeCalculation\GradeCalculation\obj\Debug\GradeCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Sinem\source\repos\GradeCalculation\GradeCalculation\obj\Debug\GradeCalculation.exe
+C:\Users\Sinem\source\repos\GradeCalculation\GradeCalculation\obj\Debug\GradeCalculation.pdb
